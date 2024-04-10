@@ -1,22 +1,23 @@
 package ZooChallenge;
 
-class Hyena extends Animal {
+public class Hyena extends Animal {
 
-    String strongJaws;
+    int blackSpots;
 
-    public Hyena(String name, int age, String gender, String birthday, String color, String weight, String habitat,
-                 String id, String strongJaws) {
-        super(name, age, "Hyena", gender, birthday, color, weight, habitat, id);
-        this.strongJaws = strongJaws;
+    public Hyena(String name, int age, String id, String birthday, String habitat, String weight, String color,
+                 String gender, int blackSpots
+    ) {
+        super(name, "Hyena", age, gender, id, color, birthday, habitat, weight);
+        this.blackSpots = blackSpots;
     }
 
-    public String getstrongJaws() {
-        return strongJaws;
+    public int getBlackSpots() {
+
+        return blackSpots;
     }
 
-    public void setSpots(String strongJaws) {
-        this.strongJaws = strongJaws;
+    public void setBlackSpots(int blackSpots) {
+        this.blackSpots = blackSpots;
     }
-
 
 }

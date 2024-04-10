@@ -1,22 +1,20 @@
 package ZooChallenge;
 
-class Tiger extends Animal {
+public class Tiger extends Animal {
 
-    int blackStripes;
+    int darkStripes;
 
     public Tiger(String name, int age, String gender, String birthday, String color, String weight, String habitat,
-                 String id, int blackStripes) {
-        super(name, age, "Tiger", gender, birthday, color, weight, habitat, id);
-        this.blackStripes = blackStripes;
+                 String id, int darkStripes) {
+        super(name, "Tiger", age, gender, birthday, color, weight, habitat, id);
+        this.darkStripes = darkStripes;
     }
 
     public int getStripes() {
-        return blackStripes;
+        return darkStripes;
     }
 
-    public void setStripes(int blackStripes) {
-        this.blackStripes = blackStripes;
+    public void setDarkStripes(int darkStripes) {
+        this.darkStripes = darkStripes;
     }
-
 }
-

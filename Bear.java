@@ -1,22 +1,23 @@
 package ZooChallenge;
 
-class Bear extends Animal {
+public class Bear extends Animal {
 
-    String hibernate;
+    int multipleCubs;
 
-    public Bear(String name, int age, String gender, String birthday, String color, String weight, String habitat,
-                String id, String hibernate) {
-        super(name, age, "Bear", gender, birthday, color, weight, habitat, id);
-        this.hibernate = hibernate;
+    public Bear(String name, int age, String id, String birthday, String habitat, String weight, String color,
+                String gender, int multipleCubs) {
+        super(name, "Bear", age, gender, color, birthday, habitat, weight, id);
+        this.multipleCubs = multipleCubs;
 
     }
 
-    public String getHibernate() {
-        return hibernate;
+    public int getMultipleCubs()
+    {
+        return multipleCubs;
     }
 
-    public void setHibernate(String hibernate) {
-        this.hibernate = hibernate;
+    public void setMultipleCubs(int multipleCubs) {
+        this.multipleCubs = multipleCubs;
     }
 
 }
