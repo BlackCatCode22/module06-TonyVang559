@@ -1,0 +1,27 @@
+Zoo Animals Report
+
+Hyena Habitat:
+
+Hy01:Zig : Birthdate: Feb 25, 2019 : from Friguia Park, Tunisia : 65 pounds : tan color : arriving April 7, 2024
+Hy02:Bud : Birthdate: Dec 7, 2014 : from Friguia Park, Tunisia : 130 pounds : brown color : arriving April 7, 2024
+Hy03:Prince Giggles : Birthdate: Jan 27, 2021 : from Friguia Park, Tunisia : 140 pounds : black color : arriving April 7, 2024
+
+Lion Habitat:
+
+Li02:Kimba : Birthdate: Nov 25, 2015 : from KopeLion, Tanzania : 350 pounds : dark tan color : arriving April 7, 2024
+Li03:Nala : Birthdate: Dec 30, 2002 : from Zanzibar, Tanzania : 400 pounds : golden color : arriving April 7, 2024
+Li04:Leo : Birthdate: Mar 5, 2022 : from KopeLion, Tanzania : 390 pounds : tan and brown color : arriving April 7, 2024
+
+Tiger Habitat:
+
+Ti02:Rajah : Birthdate: Feb 28, 2021 : from Dhaka, Bangladesh : 390 pounds : black stripes color : arriving April 7, 2024
+Ti03:Rayas : Birthdate: Dec 2, 2008 : from Bardia, Nepal : 350 pounds : gold and tan color : arriving April 7, 2024
+Ti04:Ryker : Birthdate: Mar 29, 2018 : from Bardia, Nepal : 250 pounds : black stripes color : arriving April 7, 2024
+
+Bear Habitat:
+
+Be02:Lippy : Birthdate: Apr 30, 2000 : from Woodland park Zoo, Washington : 400 pounds : black color : arriving April 7, 2024
+Be03:Paddington : Birthdate: Nov 29, 2019 : from Woodland park Zoo, Washington : 405 pounds : black color : arriving April 7, 2024
+Be04:BungleSnuggles : Birthdate: Feb 25, 2021 : from Alaska Zoo, Alaska : 410 pounds : brown color : arriving April 7, 2024
+
+The total number of animals: 12
